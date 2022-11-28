@@ -1,0 +1,8 @@
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\obj\Debug\try_cath_finally.csproj.AssemblyReference.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\obj\Debug\try_cath_finally.csproj.SuggestedBindingRedirects.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\obj\Debug\try_cath_finally.csproj.CoreCompileInputs.cache
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\bin\Debug\try_cath_finally.exe.config
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\bin\Debug\try_cath_finally.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\bin\Debug\try_cath_finally.pdb
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\obj\Debug\try_cath_finally.exe
+C:\Users\Genru515-56\Desktop\Курсовая работа\try_cath_finally\try_cath_finally\obj\Debug\try_cath_finally.pdb

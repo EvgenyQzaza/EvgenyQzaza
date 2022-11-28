@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try_cath_finally", "try_cath_finally\try_cath_finally.csproj", "{70806EFF-7B2B-4A0F-B106-4FCA97B5F489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70806EFF-7B2B-4A0F-B106-4FCA97B5F489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70806EFF-7B2B-4A0F-B106-4FCA97B5F489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70806EFF-7B2B-4A0F-B106-4FCA97B5F489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70806EFF-7B2B-4A0F-B106-4FCA97B5F489}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD961AA7-20E7-4CA5-B4FD-672A18A194ED}
+	EndGlobalSection
+EndGlobal
